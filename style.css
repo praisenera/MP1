@@ -54,10 +54,7 @@ ul li {
 .card-body i {
   font-size: 50px;
 }
-.team .card-body {
-  font-size: 20px;
-}
-#project .card {
+.card {
   box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
 }
 #carouselslide {
